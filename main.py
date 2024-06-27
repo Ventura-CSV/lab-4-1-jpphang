@@ -1,7 +1,14 @@
 def main():
 
     N = int(input('Enter the number N: '))
+    
+    #initialize an empty list to store the results
     result = []
+    
+    #for loop
+    for i in range(N+1):
+        result. append(2**N)
+        
 
     """
     ########################################
