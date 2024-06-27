@@ -7,14 +7,11 @@ def main():
     
     #for loop
     for i in range(N+1):
-        result. append(2**N)
+        result. append(2**i)
         
-
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+    
+    print(result)
+        
 
     ########################################
     # Do not delete the return statement
